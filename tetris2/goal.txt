@@ -1,0 +1,5 @@
+so my goal for today is to make implement the matrix in the make it do line clears
+how plan on doing this is when a tetromino falls the matrix will loop through all its lines and see if its filled up 
+if not then do nothing if its filled up i will make all the ones on the corresponding y axis into zeros 
+after that i will make the tetromino falling into true again
+also only the tetromino will be altered not the matrix

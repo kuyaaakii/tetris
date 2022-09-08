@@ -1,1 +1,1 @@
-checkcollitions
+blok = blok + BLOCK_SIZE
